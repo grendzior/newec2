@@ -1,2 +1,3 @@
 variable "instancetype" {
+description = "newserver"
 }
